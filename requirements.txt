@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+transformers
+torch
+pandas
+numpy
+tqdm
+crawl4ai
+scikit-learn
+sentence-transformers
